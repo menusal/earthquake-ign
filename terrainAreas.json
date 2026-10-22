@@ -1,0 +1,42 @@
+{
+  "envelope": {
+    "west": -18.21,
+    "south": 27.63,
+    "east": 4.94,
+    "north": 43.93
+  },
+  "national": {
+    "west": -20,
+    "south": 26,
+    "east": 6,
+    "north": 45
+  },
+  "nationalMaxLevel": 10,
+  "rois": [
+    {
+      "west": -4.3,
+      "south": 36.5,
+      "east": -2.6,
+      "north": 37.9,
+      "maxLevel": 12
+    },
+    {
+      "west": -2.4,
+      "south": 37.0,
+      "east": -0.6,
+      "north": 38.6,
+      "maxLevel": 12
+    },
+    {
+      "west": -18.6,
+      "south": 27.4,
+      "east": -13.2,
+      "north": 29.6,
+      "maxLevel": 11
+    }
+  ],
+  "roiLevels": [
+    11,
+    12
+  ]
+}

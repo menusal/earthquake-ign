@@ -1,0 +1,77 @@
+.driver-popover {
+  background: #0b1020;
+  color: #e8eef9;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 14px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5);
+  max-width: 330px;
+}
+
+.driver-popover-title {
+  font: 600 14px/1.3 system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color: #e8eef9;
+}
+
+.driver-popover-description {
+  font: 12px/1.55 system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color: #a9b7cf;
+  margin-top: 4px;
+}
+
+.driver-popover-progress-text {
+  color: #6b7f9e;
+  font-size: 11px;
+}
+
+.driver-popover-navigation-btns button {
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: #121a2e;
+  color: #e8eef9;
+  border-radius: 8px;
+  font: 500 12px system-ui, sans-serif;
+  padding: 6px 10px;
+  text-shadow: none;
+  transition: background 120ms ease;
+}
+
+.driver-popover-navigation-btns button:hover {
+  background: #1b2740;
+}
+
+.driver-popover-navigation-btns .driver-popover-next-btn {
+  background: #ff8a3d;
+  border-color: transparent;
+  color: #070a12;
+}
+
+.driver-popover-navigation-btns .driver-popover-next-btn:hover {
+  background: #ffb347;
+}
+
+.driver-popover-close-btn {
+  color: #a9b7cf;
+}
+
+.driver-popover-close-btn:hover {
+  color: #ffffff;
+}
+
+.driver-popover-arrow-side-left.driver-popover-arrow {
+  border-left-color: #0b1020;
+}
+.driver-popover-arrow-side-right.driver-popover-arrow {
+  border-right-color: #0b1020;
+}
+.driver-popover-arrow-side-top.driver-popover-arrow {
+  border-top-color: #0b1020;
+}
+.driver-popover-arrow-side-bottom.driver-popover-arrow {
+  border-bottom-color: #0b1020;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .driver-popover,
+  .driver-overlay {
+    transition: none !important;
+  }
+}
