@@ -20,6 +20,7 @@ Se utilizan las siguientes fuentes del IGN:
 - Texto de la licencia: <https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf>
 - Resumen CC-BY 4.0: <https://creativecommons.org/licenses/by/4.0/>
 - Portal del IGN: <https://www.ign.es>
+- X/Twitter: [@IGNSpain](https://twitter.com/IGNSpain)
 - Catálogo de terremotos: <https://www.ign.es/web/ign/portal/sis-catalogo-terremotos>
 - DOI del catálogo: <https://doi.org/10.7419/162.03.2022>
 

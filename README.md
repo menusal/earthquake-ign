@@ -2,6 +2,9 @@
 
 Visor 3D de la sismicidad reciente en España y su entorno. Muestra los terremotos de los últimos 30 días con hipocentros a su profundidad real, terreno propio del IGN, shakemaps, fallas activas y estaciones sísmicas.
 
+**Demo:** <https://earthquake-ign.vercel.app/>
+**Repositorio:** <https://github.com/menusal/earthquake-ign>
+
 > Proyecto independiente. **No es un producto oficial del Instituto Geográfico Nacional.** Los datos pertenecen a sus organismos de origen y mantienen sus propias condiciones de uso.
 
 ## Características
@@ -102,6 +105,7 @@ vercel.json             Rewrites y cabeceras de caché
 
 ## Despliegue en Vercel
 
+- Despliegue de referencia: <https://earthquake-ign.vercel.app/>
 - Build: `pnpm build` · Output: `dist`.
 - Sin variables de entorno.
 - Funciones edge:
@@ -129,7 +133,7 @@ Presupuesto actual del build: ~59 MB y 6.300 ficheros, dentro de los límites de
 
 ## Atribuciones
 
-- **Datos sísmicos y geográficos:** © Instituto Geográfico Nacional de España (IGN), [CC-BY 4.0](https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf). Catálogo de terremotos: [doi:10.7419/162.03.2022](https://doi.org/10.7419/162.03.2022).
+- **Datos sísmicos y geográficos:** © Instituto Geográfico Nacional de España (IGN), [CC-BY 4.0](https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf). Catálogo de terremotos: [doi:10.7419/162.03.2022](https://doi.org/10.7419/162.03.2022). IGN en X: [@IGNSpain](https://twitter.com/IGNSpain).
 - **Fallas activas:** IGME, base QAFI v4. Consultar las condiciones de uso del IGME.
 - **ShakeMap:** software de USGS; datos sísmicos del IGN y redes colaboradoras.
 - **Motor 3D:** CesiumJS (Apache-2.0). **Tour:** driver.js (MIT).
