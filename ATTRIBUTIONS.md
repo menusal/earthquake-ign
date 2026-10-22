@@ -70,6 +70,6 @@ Las licencias completas de las dependencias están disponibles en `node_modules`
 
 ## Licencia del proyecto
 
-El código de este repositorio se distribuye bajo **MIT** (ver [LICENSE](LICENSE)).
+El código de este repositorio se distribuye bajo **MIT** (texto canónico en [LICENSE](LICENSE); traducción de referencia en [LICENSE.es.md](LICENSE.es.md)).
 
 La licencia MIT **no se aplica a los datos**. Los datos conservan sus licencias y condiciones de atribución descritas arriba.

@@ -138,6 +138,6 @@ El detalle completo, con enlaces y licencias de las dependencias, está en [ATTR
 
 ## Licencia
 
-El **código** de este repositorio se distribuye bajo **licencia MIT**. Consulta [LICENSE](LICENSE).
+El **código** de este repositorio se distribuye bajo **licencia MIT**. Texto canónico: [LICENSE](LICENSE). Traducción de referencia al español: [LICENSE.es.md](LICENSE.es.md).
 
 La licencia MIT **no cubre los datos** mostrados por la aplicación. Cada conjunto de datos conserva su licencia y requiere su atribución (IGN CC-BY 4.0, IGME QAFI, etc.).
